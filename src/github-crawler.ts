@@ -4,13 +4,6 @@ import fetch from 'node-fetch';
 import { parse } from 'node-html-parser';
 import urlJoin from 'url-join';
 
-interface Post {
-  title: string;
-  link: string;
-  date: string;
-  coverImageUrl: string;
-}
-
 const getActionRuns = async (repoName: string, amount = 5) => {
   const url = urlJoin(`https://github.com/${repoName}/actions`);
   const res = await fetch(url);
