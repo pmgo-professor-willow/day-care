@@ -1,42 +1,42 @@
 ### data - LeekDuck
 | Status | Timestamp |
 |:------:|:---------:|
-| 🟢 | 20 minutes ago |
-| 🟢 | 31 minutes ago |
+| 🟢 | 19 minutes ago |
+| 🟢 | an hour ago |
 | 🟢 | an hour ago |
 
 ### data - TheSilphRoad
 | Status | Timestamp |
 |:------:|:---------:|
-| 🟢 | 6 minutes ago |
-| 🟢 | 29 minutes ago |
-| 🟢 | 42 minutes ago |
+| 🟢 | 3 minutes ago |
+| 🟢 | 41 minutes ago |
+| 🟢 | an hour ago |
 
 ### data - PokemonGoLive
 | Status | Timestamp |
 |:------:|:---------:|
-| 🟢 | a minute ago |
-| 🟢 | 24 minutes ago |
-| 🟢 | 33 minutes ago |
+| 🟢 | 2 minutes ago |
+| 🟢 | 37 minutes ago |
+| 🟢 | an hour ago |
 
 ### data - Tweets
 | Status | Timestamp |
 |:------:|:---------:|
-| 🟢 | 24 minutes ago |
-| 🟢 | 37 minutes ago |
+| 🟢 | 31 minutes ago |
+| 🟢 | an hour ago |
 | 🟢 | an hour ago |
 
 ### data - YouTuber
 | Status | Timestamp |
 |:------:|:---------:|
-| 🟢 | 17 minutes ago |
-| 🟢 | 26 minutes ago |
-| 🟢 | 32 minutes ago |
+| 🟢 | 20 minutes ago |
+| 🟢 | an hour ago |
+| 🟢 | an hour ago |
 
 ### LINE - Pokedex (LIFF)
 | Status | Timestamp |
 |:------:|:---------:|
-| 🟢 | 23 minutes ago |
-| 🟢 | 23 minutes ago |
-| 🟢 | 32 minutes ago |
+| 🟢 | 24 minutes ago |
+| 🟢 | 31 minutes ago |
+| 🟢 | an hour ago |
 
